@@ -64,18 +64,23 @@ Utilizar dois push-buttons (KO e K1) para acionar um LED com a seguinte regra: o
 ---
 ### Questão 16
 Utilizar dois push-button (KO e K1) para acionar um LED com a seguinte regra: o LED só deve acender se o usuário pressionar os dois botões juntos, mas primeiro o botão KO e em seguida o botão K1. Se o botão K1 não for pressionado dentro de no máximo 1 segundo após KO ser pressionado, o LED não deve acender.
+
 ---
 ### Questão 17
 Controlar um micro servomotor para que ele alterne lenta e suavemente a posição do seu eixo entre 0° e 180° por meio de dois push-buttons, sendo um para aumentar o ângulo de posicionamento do eixo e outro para diminuir.
+
 ---
 ### Questão 18
 Utilizar um teclado de membrana 4x4, fazendo sua decodificação, apresentando a tecla pressionada em um display de 7 segmentos
+
 ---
 ### Questão 19
 Fazer a leitura de um sensor de proximidade ultrassônico, semelhante aos sensores de estacionamento de automóveis. Escolher 3 limiares de distância ( D * 1 = 10cm , D * 2 = 30cm D * 3 = 50cm ) , sinalizando a distância medida por meio de um buzzer. Se a distância medida for maior que 50cm, o buzzer não deve ser acionado. Se a distância medida estiver entre 50cm e 30cm, o buzzer deve emitir beeps a uma frequência baixa. Se a distância medida estiver entre 30cm e 10cm, o buzzer deve emitir beeps a uma frequência intermediária. Se a distância medida for menor que 10cm, o buzzer deve emitir beeps a uma frequência alta.
+
 ---
 ### Questão 20
 Utilizando 4 botões e 4 Leds externos, implementar o antigo jogo da memória "Genius". (Para criar aleatoriedade, utilize a função Random_Number() da biblioteca Utility.h, que retorna um número inteiro sem sinal de 32 bits).
+
 ---
 
 
